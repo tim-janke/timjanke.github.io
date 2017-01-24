@@ -1,0 +1,100 @@
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+header {
+height: 600px;
+width: auto;
+}
+
+h1 {
+  font-size: 90px;
+}
+
+h2 {
+  font-size: 60px;
+}
+
+h3 {
+  font-size: 30px;
+  font-weight: normal;
+}
+
+p {
+  font-size: 20px;
+  font-weight: lighter;
+  letter-spacing: 13;
+}
+
+.nav-b {
+  display: inline-block;
+  padding: 50 0 50 0;
+}
+
+.center {
+  text-align: center;
+}
+
+.center2 {
+  text-align: center;
+  padding: 0 0 40 0;
+}
+
+.center3 {
+  text-align: center;
+  padding: 100 0 0 0;
+  bottom: 0px;
+}
+
+.center4 {
+  text-align: center;
+  padding: 100 0 0 0;
+  bottom: 0px;
+  margin-bottom: 300px;
+}
+
+
+.nav-text {
+  font-size: 20;
+  padding: 0 33 0 33;
+}
+
+.pimage {
+  text-align: center;
+  padding: 20 20 20 20;
+}
+
+.simage {
+  opacity: 0.81;
+  text-align: center;
+  zoom: 30%;
+  margin-bottom: 31px;
+  padding: 0 5 0 5;
+}
+
+.simage1 {
+  text-align: center;
+  zoom: 40%;
+  padding: 0 5 0 5;
+}
+
+
+
+a {
+    text-decoration: none;
+    color: #000 ;
+
+}
+
+a:hover {
+    color: #00A096 ;
+
+}
+
+img {
+  width: 200px;
+  height: auto;
+
+
+
+}
