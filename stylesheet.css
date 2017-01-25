@@ -87,7 +87,7 @@ a {
 }
 
 a:hover {
-    color: #00A096 ;
+    color: #FFD7D5 ;
 
 }
 
@@ -95,6 +95,9 @@ img {
   width: 200px;
   height: auto;
 
+}
 
-
+::selection {
+  color: #fff;
+  background: #FFD7D5;
 }
