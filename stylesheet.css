@@ -101,3 +101,15 @@ img {
   color: #fff;
   background: #FFD7D5;
 }
+
+
+
+@@media (min-width:768px) and (max-width:1024px) {
+
+h1 {
+
+font-size: 80px;
+padding: 50 0 50 0;
+ {
+
+}
